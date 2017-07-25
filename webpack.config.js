@@ -1,7 +1,5 @@
 var config = {
-    entry: '/src/Formview.html',
-    entry: '/src/from.css',
-    entry: './src/form.js',
+    entry: './form.jsx',
     output: {
         path: __dirname,
         filename: 'index.js',
