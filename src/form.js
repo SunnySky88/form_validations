@@ -4,7 +4,7 @@ class BasicForm extends React.Component {
         super(props);
 
         this.state = {
-            username: 'jasonmalfatto@moduscreate.com',
+            username: 'angadalasunilyadav@gmail.com',
             password: '',
             passwordConfirm: ''
         };
